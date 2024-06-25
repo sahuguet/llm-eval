@@ -1,0 +1,39 @@
+{
+    "analysts_questions": [
+        {
+            "name": "Andrew Lazar",
+            "affiliation": "Barclays Capital, Inc.",
+            "question": "Would you expect the percentage of holding or gaining share in ACCELERATE Platform to be higher given the allocation of resources? Can you provide more detail on share trends within ACCELERATE?"
+        },
+        {
+            "name": "Ken Goldman",
+            "affiliation": "JPMorgan Securities LLC",
+            "question": "Is the 3% cost inflation for the year still a reasonable number, and how do you plan to handle price increases, especially in categories like coffee?"
+        },
+        {
+            "name": "Bryan Spillane",
+            "affiliation": "BofA Securities, Inc.",
+            "question": "Can you share how much the SNAP issue impacted organic sales in the first quarter? And what is driving the decline in the US Away from Home business, related to plant closure or restaurant traffic decline?"
+        },
+        {
+            "name": "John Baumgartner",
+            "affiliation": "Mizuho Securities USA LLC",
+            "question": "Are you seeing any changes in consumer behavior driving private label share growth, especially in categories like Mac & Cheese and ketchup? And are there specific categories in US retail where you expect material benefits from joint business plans?"
+        },
+        {
+            "name": "Steve Powers",
+            "affiliation": "Deutsche Bank Securities, Inc.",
+            "question": "Can you provide more details on the unplanned maintenance of the Away from Home plant and its impact on the second quarter? How do you expect the recovery to unfold in the third quarter?"
+        },
+        {
+            "name": "David Palmer",
+            "affiliation": "Evercore Group LLC",
+            "question": "What are the underlying assumptions for the food service segment to achieve mid-single-digit organic growth for the year? And how are you addressing challenges and plans for improving categories like Oscar Mayer and beverages?"
+        },
+        {
+            "name": "Robert Moskow",
+            "affiliation": "TD Cowen",
+            "question": "Does the reduction in food service guidance imply an offset from other segments? How do you plan to address the mid-single-digit decline in food service? Are adjustments needed in marketing plans for US retail?"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "analysts_questions": [
+        {
+            "name": "Shaun Kelley",
+            "affiliation": "Bank of America",
+            "question": "Could you provide more insight into the cash flow side, specifically about key money, expected investment for Cambria, and the high CapEx relative to peers?"
+        },
+        {
+            "name": "Michael Bellisario",
+            "affiliation": "Baird",
+            "question": "Can you elaborate on the reservation income recorded and the mismatch between reimbursable line items on the income statement for first quarter? What's the expected revenue for the rest of the year?"
+        },
+        {
+            "name": "Stephen Grambling",
+            "affiliation": "Morgan Stanley",
+            "question": "What is the expected RevPAR cadence for the remainder of the year? Have you reconsidered pursuing Wyndham? Are there any opportunities that may come back to life post-Wyndham endeavors?"
+        },
+        {
+            "name": "David Katz",
+            "affiliation": "Jefferies",
+            "question": "Can you provide more details on the growth in the other revenue line and expectations for that line item for the rest of the year? Would you consider disclosing net rooms growth or another financial metric for better guidance?"
+        },
+        {
+            "__note__": "added manually",
+            "name": "Robin Farley",
+            "affiliation": "UBS",
+            "question": "I wonder if you could tell us if you're still expecting a full year increase in total units. I know the revenue-intense units, it sounds like your view on that is unchanged. Just wondering what's happening outside of that segment? And then also, can you help us think about how to size the opportunity of the Park Inn by Radisson where you think that could (inaudible), on a full year basis in '25. And you kind of alluded to -- you referenced you potentially still looking at acquisitions, I think.So I wonder if you could just clarify that a little bit more. You kind of made the comment, I think, more having to do with your leverage levels. But if you could talk about what your latest thoughts are on that."
+        },
+        {
+            "name": "Joe Greff",
+            "affiliation": "JPMorgan",
+            "question": "What is embedded for royalty fee growth in the 2024 guidance, and can it match the level of EBITDA growth? Can you provide a composition within the royalty line between higher and lower RevPAR intensive chain scale segments?"
+        },
+        {
+            "name": "Charles Scholes",
+            "affiliation": "Truist Securities",
+            "question": "Would you rule out trying again for Wyndham if the stock price remains at a certain level? Can you comment on the opportunity for Park Inn by Radisson? Have you thought about changing disclosures or guidance?"
+        },
+        {
+            "name": "Alex Brignall",
+            "affiliation": "Redburn Atlantic",
+            "question": "Can you explain the dynamics of reimbursed revenue and costs? Will there be a change in presentation for these revenue streams in the future? Can you clarify the economics of the franchise agreement in France?"
+        }
+    ]
+}

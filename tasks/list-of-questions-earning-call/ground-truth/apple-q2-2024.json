@@ -1,0 +1,64 @@
+{
+    "analysts_questions": [{
+			"name": "Mike Ng",
+			"affiliation": "Goldman Sachs",
+			"question": "Can you run through some of the product assumptions for the low-single-digits revenue growth outlook for the June quarter, particularly for iPhone, and what drove the services growth acceleration in the last quarter?"
+		},
+		{
+			"name": "Wamsi Mohan",
+			"affiliation": "Bank of America",
+			"question": "Given the changes driven by EU DMA, how do you see the implications for Apple in terms of opening up third-party app stores and the impact on revenue from third-party developers?"
+		},
+		{
+			"name": "Erik Woodring",
+			"affiliation": "Morgan Stanley",
+			"question": "How is Apple planning to monetize its Generative AI technology across consumer and enterprise segments, and do you foresee any changes to the historical CapEx cadence due to investments in AI?"
+		},
+        { 
+            "__note__": "added manually",
+            "name": "Ben Reitzes",
+            "affiliation": "Melius",
+            "question": "And hey, Tim, I was wondering if I could ask the China question again. Is there any more color from your visit there that gives you confidence that you've reached a bottom there and that it's turning? And I know you've been -- you've continued to be confident there in the long-term. Just wondering if there was any color as to when you think that the tide turns there? Thanks a lot. And I have a follow-up. [...] Okay. Hey, thanks, Tim. And then my follow-up, I want to ask this carefully though. It's a -- there's a fear out there that, you may lose some traffic acquisition revenue. And I was wondering if you thought AI from big picture and it doesn't have to be on a long-term basis, I mean from a big picture, if AI is an opportunity for you to continue to monetize your mobile real estate, just how you -- how maybe investors can think about that from a big picture, just given that's been one of the concerns that's potentially been an overhang, of course, due to, you know, a lot of the news and the media around some of the legal cases? And I was wondering if there's just a big-picture color you could give that makes us kind of think about it better and your ability to sort of continue to monetize that real estate? Thanks a lot."
+        },
+		{
+			"name": "Krish Sankar",
+			"affiliation": "TD Cowen",
+			"question": "Can you provide more details on the drivers behind the acceleration in services growth from 11% to 14% year-over-year, and what factors might impact the sustainability of this growth going forward?"
+		},
+		{
+			"name": "Amit Daryanani",
+			"affiliation": "Evercore",
+			"question": "How does Apple plan to utilize its capital to drive replacement demand within the installed base, considering the high margins and near-neutral cash position? Could you see a shift towards greater device financing or other approaches?"
+		},
+        {
+            "__note__": "added manually",
+            "name": "David Vogt",
+            "affiliation": "UBS",
+            "question": "Great. Thanks guys for taking my question. I'm going to roll the two together, so you guys have them both. So Luca obviously, I'm trying to parse through the outlook for the June quarter. And just based on the quick math, it looks like all things being equal, given what you said, the iPhone business is going to be down mid-single-digits again in the June quarter. And if that's the case and maybe this is for Tim obviously, how are you thinking about the competitive landscape in the context of what you just said maybe outside of China and what changes sort of, the consumer demand or receptivity to new devices because we've been in this malaise for a while. Is it really this AI initiative that a lot of companies are pursuing? And do you think that changes sort of the demand drivers going forward? Or is it just really more of a timing issue in terms of the replacement cycle is a little bit long in the tooth, and we see a bit of an upgrade cycle at some point, maybe later this year into next year? Thanks."
+        },
+        {
+            "__note__": "added manually",
+            "name": "Samik Chatterjee",
+            "affiliation": "JPMorgan",
+            "question": "Hi, thanks for taking my question, and I have a couple as well. Maybe for the first one, your services growth accelerated from 11% growth to 14%. If you can sort of dig into the drivers of where or which parts of services did you really see that acceleration? And why it isn't a bit more sustainable as we think about the next quarter? Because I believe you're guiding more to sort of averaging out the first half of the year for the next quarter. So just curious what were the drivers and why not have it a bit more sustainably sort of improve as we go through the remainder of the year? And I have a quick follow-up. Thank you. [...] Got it. Got it. And for my follow up, if I can ask you more specifically about the India market. Obviously, you continue to make new records in terms of revenue in that market. How much of the momentum you're seeing would you associate with your sort of retail strategy in that market, retail expansion relative to maybe some of the supply change or the sort of manufacturing changes or strategy you've undergone or taken in that market itself. Any thoughts around that would be helpful? "
+        },
+        {
+            "__note__": "added manually",
+            "name": "Aaron Rakers",
+            "affiliation": "Wells Fargo",
+            "question": "Yes, thanks for taking the questions, and I think I have to have two as well like everybody else. I guess, I'm going to go back to the China question. I guess, at a high level, the simple question is, when we look at the data points that have been repeatedly reported throughout the course of this quarter, I'm curious, Tim, you know, what are we missing? Like where do you think people are missing, Apple's iPhone traction within the China market, just at a high level, you know, given the data points that were reported throughout this course of the last quarter?"
+        },
+        {
+            "__note__": "added manually",
+            "name": "Richard Kramer",
+            "affiliation": "Arete Research",
+            "question": "Thanks very much. I'm not going to ask about China, but you regularly call out all the rapid growth in many other emerging markets. So is Apple approaching a point where all of those other emerging markets in aggregate might crossover to become larger than your current $70 billion Greater China segments, and maybe investors could look at that for driving growth for the wider business? And then I have a follow-up for Luca. Thanks. [...] Okay. And then as a follow-up, maybe for either of you, I mean, you're coming up on four years from what was incredibly popular iPhone 12 cycle. And, you know, given you're struggling to reduce your net -- your -- reach your net neutral cash position and your margins are sort of near highs, do you see ways to deploy capital more to spur replacement demand in your installed base either with greater device financing, more investment in marketing, more promotions. I mean, do you feel like you needed to produce those sort of margins or is it a more important to spur growth with replacement? Thanks."
+        },
+        {
+            "__note__": "added manually",
+            "name": "Atif Malik",
+            "affiliation": "Citi",
+            "question": "Hi. Thank you for taking my questions, and I have two questions as well. First for Tim, for enterprise, specifically, what are some of the top two or three use cases on Vision Pro you're hearing most excitement? And then I have a follow-up for Luca. [...] Great. And then Luca, I believe you mentioned that for the March quarter, the commodity pricing environment was favorable. Can you talk about what you're assuming for commodity pricing on memory and et cetera for the June quarter and maybe for the full-year?"  
+        }
+	]
+}

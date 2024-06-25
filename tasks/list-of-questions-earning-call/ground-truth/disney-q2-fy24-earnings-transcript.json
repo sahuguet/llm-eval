@@ -1,0 +1,44 @@
+{
+    "analyst_questions": [
+        {
+            "name": "Steven Cahall",
+            "affiliation": "Wells Fargo",
+            "question": "As you start to lap some of the post-COVID rebound, what's your expectation for attendance at the domestic level and at the global level as you exit fiscal '24 and into '25?"
+        },
+        {
+            "name": "Ben Swinburne",
+            "affiliation": "Morgan Stanley",
+            "question": "Can you talk about the next 12 to 18 months and what you think ESPN looks like a couple of years from now? And how do you think about the balance of leaning on established franchises versus investment in new IP in the studio segment?"
+        },
+        {
+            "name": "Jessica Reif Ehrlich",
+            "affiliation": "Bank of America",
+            "question": "Can you give us your thoughts going into the upfront, particularly with the integration of the Trade Desk and Google TV 360? And when will you implement password sharing, and how does it impact your Direcit-to-Consumer business?"
+        },
+        {
+            "name": "Robert Fishman",
+            "affiliation": "MoffettNathanson",
+            "question": "How much upside do you see to the growth trajectory of the theme park business over the investment horizon? And how do you think about the balance of leaning on established franchises versus investment in new IP in the studio segment?"
+        },
+        {
+            "name": "Kannan Venkateshwar",
+            "affiliation": "Barclays",
+            "question": "In terms of the theme park business, how much upside do you see to the growth trajectory over the investment horizon? And from a succession planning perspective, what do you hope to achieve in your tenure before the next CEO takes over?"
+        },
+        {
+            "name": "John Hodulik",
+            "affiliation": "UBS",
+            "question": "How do you think about efforts to boost viewership on the Disney+ platform, including the revamp of the technology and UI? And what is the plan for ESPN+ once the flagship platform is launched next fall?"
+        },
+        {
+            "name": "David Karnovsky",
+            "affiliation": "JPMorgan",
+            "question": "Can you expand or give us an update on the Charter partnership, including subscriber engagement, churn, and financial impact? And what is your view on licensing content off-platform for growth opportunities?"
+        },
+        {
+            "name": "Michael Morris",
+            "affiliation": "Guggenheim",
+            "question": "What opportunities do you see to bring more titles from the 20th Century Fox library to the forefront? And how do you balance leaning on established franchises versus investment in new IP in the studio segment?"
+        }
+    ]
+}
