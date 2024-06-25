@@ -1,97 +1,95 @@
-{
-    "analyst_questions": [
-        {
-            "name": "Justin Patterson",
-            "affiliation": "KeyBanc",
-            "question": "Could you please talk about the decision to stop reporting quarterly membership in ARM data in 2025? Why eliminate this?"
-        },
-        {
-            "name": "Ben Swinburne",
-            "affiliation": "Morgan Stanley",
-            "question": "Two years ago, Netflix stopped adding members. What changes inside Netflix and/or the broader industry explain the significant improvement in member growth we're seeing today, excluding the paid-sharing initiative? In other words, what are you doing better today as a company than in the first half of 2022?"
-        },
-        {
-            "name": "Barton Crockett",
-            "affiliation": "Rosenblatt",
-            "question": "Can you please explain what drives the revenue deceleration for the full year? Will second quarter subscriber growth be higher or lower than Q2 of 2023?"
-        },
-        {
-            "name": "Jason Helfstein",
-            "affiliation": "Oppenheimer",
-            "question": "What are the most important drivers of scaling your ad tier when you think about adjustments you could make to pricing and plans, partner bundles, and marketing? How do you get people over the hump that a few minutes of ads an hour can still be a very good experience at the right price?"
-        },
-        {
-            "name": "Kannan Venkateshwar",
-            "affiliation": "Barclays",
-            "question": "Do you expect margin growth trajectory to continue being on the present path for a few years? Can you attain margins that are comparable to legacy media margins?"
-        },
-        {
-            "name": "Alan Gould",
-            "affiliation": "Loop Capital",
-            "question": "Which inning are we in with respect to enforcing paid sharing? How many subscribers do you estimate still borrow passwords?"
-        },
-        {
-            "__note__": "added manually",
-            "name": "Doug Anmuth",
-            "affiliation": "JPMorgan",
-            "question": "What are the most important drivers of scaling your ad tier when you think about adjustments you could make to pricing and plans, partner bundles and marketing? How do you get people over the hump for -- that a few minutes of ads an hour can still be a very good experience at the right price?"
-        },
-        {
-            "name": "Rich Greenfield",
-            "affiliation": "LightShed",
-            "question": "What are the characteristics of the upcoming Jake Paul-Mike Tyson fight that make this the type of sports programming you're interested in investing in? How does that content benefit your member base and advertising growth goals?"
-        },
-        {
-            "name": "Eric Sheridan",
-            "affiliation": "Goldman Sachs",
-            "question": "What are your thoughts on the competitive impact from short-form video consumption?"
-        },
-        {
-            "__note__": "added manually",
-            "name": " John Holick",
-            "affiliation": "UBS",
-            "question": "How are you approaching this year's upfronts? And do you believe the base of ad support users is now of the scale that upfront commitments can drive a meaningful change in advertising revenue and be a contributor to ARM growth in 2025?"
-        },
-        {
-            "__note__": "added manually",
-            "name": "Michael Morris",
-            "affiliation": "Guggenheim",
-            "question": "What are the characteristics of the upcoming Jake Paul-Mike Tyson fight that make this the type of sports programming you're interested in investing in? How does that content benefit your member base and advertising growth goals?"
-        },
-        {
-            "__note__": "added manually",
-            "name": " Steve King Hall",
-            "affiliation": "Wells Fargo",
-            "question": "as you continue to expand, do you think there is a ceiling for pricing? If so, how close are we to that ceiling in mature markets? And do you envision Netflix having content here so that you can continue to expand your content genres and further segment your customer base?"
-        },
-        {
-            "__note__": "added manually",
-            "name": "March Mollick",
-            "affiliation": "Bernstein",
-            "question": "Can you please share progress on how the retirement of the basic plan is going in the U.K. and Canada? And is there any color you can share on if when we could expect a similar rollout in the U.S. Greg, why don't you take that one?"
-        },
-        {
-            "__note__": "added manually",
-            "name": "John Blackledge",
-            "affiliation": "TD Cowen",
-            "question": "You mentioned evolving capital allocation strategy in your investor letter with the -- with your new investment-grade status. Can you please talk about the changes in how investors will see that change?",
-        },
-        {
-            "__note__": "added manually",
-            "name": "Vikram",
-            "affiliation": "Baird",
-            "question": "What are your latest thoughts on the appropriate level of can spend for the business beyond 2024? Specifically in the past, you have referenced a [ 1.1x ] content spend-to-amortization ratio. Is that still the case? And what would you need to see in an opportunity to meaningfully exceed that framework?"
-        },
-        {
-            "__note__":"added manually",
-            "name": "Eric Sheridan",
-            "affiliation": "Goldman Sachs",
-            "question": "The question is, what are your thoughts on the competitive impact from short-form video consumption?",
-        },
-        {
-            "name": "Dan Salmon",
-            "affiliation": "New Street Research",
-            "question": "What is the opportunity for Netflix to leverage generative AI technology in the near and long term? What do you think great storytellers should be focused on as this technology continues to emerge quickly?"
-        }
-    ]
-}
+[
+    {
+        "name": "Justin Patterson",
+        "affiliation": "KeyBanc",
+        "question": "Could you please talk about the decision to stop reporting quarterly membership in ARM data in 2025? Why eliminate this?"
+    },
+    {
+        "name": "Ben Swinburne",
+        "affiliation": "Morgan Stanley",
+        "question": "Two years ago, Netflix stopped adding members. What changes inside Netflix and/or the broader industry explain the significant improvement in member growth we're seeing today, excluding the paid-sharing initiative? In other words, what are you doing better today as a company than in the first half of 2022?"
+    },
+    {
+        "name": "Barton Crockett",
+        "affiliation": "Rosenblatt",
+        "question": "Can you please explain what drives the revenue deceleration for the full year? Will second quarter subscriber growth be higher or lower than Q2 of 2023?"
+    },
+    {
+        "name": "Jason Helfstein",
+        "affiliation": "Oppenheimer",
+        "question": "What are the most important drivers of scaling your ad tier when you think about adjustments you could make to pricing and plans, partner bundles, and marketing? How do you get people over the hump that a few minutes of ads an hour can still be a very good experience at the right price?"
+    },
+    {
+        "name": "Kannan Venkateshwar",
+        "affiliation": "Barclays",
+        "question": "Do you expect margin growth trajectory to continue being on the present path for a few years? Can you attain margins that are comparable to legacy media margins?"
+    },
+    {
+        "name": "Alan Gould",
+        "affiliation": "Loop Capital",
+        "question": "Which inning are we in with respect to enforcing paid sharing? How many subscribers do you estimate still borrow passwords?"
+    },
+    {
+        "__note__": "added manually",
+        "name": "Doug Anmuth",
+        "affiliation": "JPMorgan",
+        "question": "What are the most important drivers of scaling your ad tier when you think about adjustments you could make to pricing and plans, partner bundles and marketing? How do you get people over the hump for -- that a few minutes of ads an hour can still be a very good experience at the right price?"
+    },
+    {
+        "name": "Rich Greenfield",
+        "affiliation": "LightShed",
+        "question": "What are the characteristics of the upcoming Jake Paul-Mike Tyson fight that make this the type of sports programming you're interested in investing in? How does that content benefit your member base and advertising growth goals?"
+    },
+    {
+        "name": "Eric Sheridan",
+        "affiliation": "Goldman Sachs",
+        "question": "What are your thoughts on the competitive impact from short-form video consumption?"
+    },
+    {
+        "__note__": "added manually",
+        "name": " John Holick",
+        "affiliation": "UBS",
+        "question": "How are you approaching this year's upfronts? And do you believe the base of ad support users is now of the scale that upfront commitments can drive a meaningful change in advertising revenue and be a contributor to ARM growth in 2025?"
+    },
+    {
+        "__note__": "added manually",
+        "name": "Michael Morris",
+        "affiliation": "Guggenheim",
+        "question": "What are the characteristics of the upcoming Jake Paul-Mike Tyson fight that make this the type of sports programming you're interested in investing in? How does that content benefit your member base and advertising growth goals?"
+    },
+    {
+        "__note__": "added manually",
+        "name": " Steve King Hall",
+        "affiliation": "Wells Fargo",
+        "question": "as you continue to expand, do you think there is a ceiling for pricing? If so, how close are we to that ceiling in mature markets? And do you envision Netflix having content here so that you can continue to expand your content genres and further segment your customer base?"
+    },
+    {
+        "__note__": "added manually",
+        "name": "March Mollick",
+        "affiliation": "Bernstein",
+        "question": "Can you please share progress on how the retirement of the basic plan is going in the U.K. and Canada? And is there any color you can share on if when we could expect a similar rollout in the U.S. Greg, why don't you take that one?"
+    },
+    {
+        "__note__": "added manually",
+        "name": "John Blackledge",
+        "affiliation": "TD Cowen",
+        "question": "You mentioned evolving capital allocation strategy in your investor letter with the -- with your new investment-grade status. Can you please talk about the changes in how investors will see that change?",
+    },
+    {
+        "__note__": "added manually",
+        "name": "Vikram",
+        "affiliation": "Baird",
+        "question": "What are your latest thoughts on the appropriate level of can spend for the business beyond 2024? Specifically in the past, you have referenced a [ 1.1x ] content spend-to-amortization ratio. Is that still the case? And what would you need to see in an opportunity to meaningfully exceed that framework?"
+    },
+    {
+        "__note__": "added manually",
+        "name": "Eric Sheridan",
+        "affiliation": "Goldman Sachs",
+        "question": "The question is, what are your thoughts on the competitive impact from short-form video consumption?",
+    },
+    {
+        "name": "Dan Salmon",
+        "affiliation": "New Street Research",
+        "question": "What is the opportunity for Netflix to leverage generative AI technology in the near and long term? What do you think great storytellers should be focused on as this technology continues to emerge quickly?"
+    }
+]
